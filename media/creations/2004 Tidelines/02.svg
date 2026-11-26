@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1f3b2f"/><stop offset="1" stop-color="#7aa37a"/></linearGradient>
+<filter id="b"><feGaussianBlur stdDeviation="40"/></filter></defs>
+<rect width="1200" height="800" fill="url(#g)"/><g filter="url(#b)"><circle cx="275" cy="582" r="96" fill="#e3c77a" opacity="0.29"/><circle cx="920" cy="483" r="246" fill="#e3c77a" opacity="0.53"/><circle cx="192" cy="499" r="87" fill="#e3c77a" opacity="0.40"/><circle cx="4" cy="712" r="194" fill="#e3c77a" opacity="0.50"/><circle cx="468" cy="605" r="106" fill="#e3c77a" opacity="0.26"/><circle cx="52" cy="665" r="218" fill="#7aa37a" opacity="0.58"/><circle cx="780" cy="702" r="135" fill="#e3c77a" opacity="0.50"/><circle cx="1080" cy="227" r="192" fill="#e3c77a" opacity="0.44"/><circle cx="707" cy="236" r="253" fill="#7aa37a" opacity="0.52"/></g>
+<text x="600" y="420" text-anchor="middle" font-family="Georgia,serif" font-size="44" fill="#fff" opacity=".85">Replace me with a photo</text>
+</svg>

@@ -1,0 +1,97 @@
+18 timeline entries built from media/
+
+1989        creation   gallery    Paintings  (1 items)
+1992        creation   video      A short film
+1998        creation   photo      Pure nz matamata
+2001        creation   photo      Strikingly-like mitzpe ramon
+2004        creation   gallery    Tidelines  (3 items)
+2011        creation   gallery    BVA Fade to Black dunedin NZ  (1 items)
+2012        creation   gallery    I am scared diploma applied arts rawene  (1 items)
+2013        creation   gallery    Gdfa-every sperm is sacred  (1 items)
+2014        creation   gallery    Printing workshop satelite  (1 items)
+2019        creation   gallery    -fire in my soul Brussels belgium 16mm bolex film  (1 items)
+2020        creation   gallery    Ma project kask belgium  (2 items)
+2020        creation   gallery    Sacred and antropocene  (1 items)
+2022        creation   gallery    Israel with love  (1 items)
+2023        creation   gallery    -trailer pitch -vacant lot of cabbages  (1 items)
+2023        creation   gallery    Tzfat Israel artist interviews  (1 items)
+2024        creation   gallery    Iranian missile attack 1 oct  (1 items)
+2024-11-28  creation   video      Jewish artists of tzfat v1 (720p)
+2025-01-19  creation   video      Rotoscoped rowing experiment 18 jan v1 (1080p)
+
+Things to check:
+  - creations/10Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/11Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/12Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/13Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/14Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/15Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/16Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/1Queenstown trip June 2011.jpg: no date in name (or camera date) - skipped
+  - creations/23aug-experiment1-mp4-00-00-34-22-still002_1_orig.gif: no date in name (or camera date) - skipped
+  - creations/23aug-experiment2-mp4-00-01-00-20-still001_1_orig.gif: no date in name (or camera date) - skipped
+  - creations/23aug-experiment2-mp4-00-01-06-04-still002_1_orig.gif: no date in name (or camera date) - skipped
+  - creations/23aug-experiment2-mp4-00-01-27-04-still003_1_orig.gif: no date in name (or camera date) - skipped
+  - creations/23aug-experiment2-mp4-00-01-37-05-still004_1_orig.gif: no date in name (or camera date) - skipped
+  - creations/23aug-experiment2-mp4-00-01-57-01-still005_1_orig.gif: no date in name (or camera date) - skipped
+  - creations/23aug-experiment3-mp4-00-01-58-03-still001_1_orig.gif: no date in name (or camera date) - skipped
+  - creations/23aug-experiment3-mp4-00-02-06-06-still002_1_orig.gif: no date in name (or camera date) - skipped
+  - creations/23aug-experiment3-mp4-00-02-33-12-still003_1_orig.gif: no date in name (or camera date) - skipped
+  - creations/23aug-experiment4-mp4-00-03-11-12-still001_1_orig.gif: no date in name (or camera date) - skipped
+  - creations/2693514.jpg: no date in name (or camera date) - skipped
+  - creations/2Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/3Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/4099927.jpg: no date in name (or camera date) - skipped
+  - creations/4Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/5Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/6Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/7Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/8Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/9Queenstown trip June 2011.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/buddha and me.jpg: no date in name (or camera date) - skipped
+  - creations/gouche1.jpg: no date in name (or camera date) - skipped
+  - creations/gouche2_100x100.jpg: no date in name (or camera date) - skipped
+  - creations/gouche3_100x100.jpg: no date in name (or camera date) - skipped
+  - creations/gouche5_100x100.jpg: no date in name (or camera date) - skipped
+  - creations/hard edge 2001acrlylic glaze.jpg: no date in name (or camera date) - skipped
+  - creations/hills-sold2gaylene_preston1989_.jpg: no date in name (or camera date) - skipped
+  - creations/imgp0168cropped_orig.jpg: no date in name (or camera date) - skipped
+  - creations/lifedrawing1.jpg: no date in name (or camera date) - skipped
+  - creations/lifedrawing2.jpg: no date in name (or camera date) - skipped
+  - creations/lifedrawing3.jpg: no date in name (or camera date) - skipped
+  - creations/lifedrawing4.jpg: no date in name (or camera date) - skipped
+  - creations/Molesworth Series 2009  -15.jpg: no date in name (or camera date) - skipped
+  - creations/Molesworth Series 2009 -1.jpg: no date in name (or camera date) - skipped
+  - creations/Molesworth Series 2009 -10.jpg: no date in name (or camera date) - skipped
+  - creations/Molesworth Series 2009 -11.jpg: no date in name (or camera date) - skipped
+  - creations/Molesworth Series 2009 -12.jpg: no date in name (or camera date) - skipped
+  - creations/Molesworth Series 2009 -13.jpg: no date in name (or camera date) - skipped
+  - creations/Molesworth Series 2009 -14.jpg: no date in name (or camera date) - skipped
+  - creations/Molesworth Series 2009 -16.jpg: no date in name (or camera date) - skipped
+  - creations/Molesworth Series 2009 -2.jpg: no date in name (or camera date) - skipped
+  - creations/Molesworth Series 2009 -3.jpg: no date in name (or camera date) - skipped
+  - creations/Molesworth Series 2009 -4.jpg: no date in name (or camera date) - skipped
+  - creations/Molesworth Series 2009 -5.jpg: no date in name (or camera date) - skipped
+  - creations/Molesworth Series 2009 -7.jpg: no date in name (or camera date) - skipped
+  - creations/Molesworth Series 2009 -9.jpg: no date in name (or camera date) - skipped
+  - creations/Mt Ngauruhoe2009.jpg: no date in name (or camera date) - skipped
+  - creations/pencarrow heads2004-barbaras.jpg: no date in name (or camera date) - skipped
+  - creations/phot01-tzfat.jpg: no date in name (or camera date) - skipped
+  - creations/photo2-TZFAT.jpg: no date in name (or camera date) - skipped
+  - creations/photo2-TZFAT5.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/photo3-TZFAT.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/photo4-TZFAT.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/photo6-TZFAT.jpg.jpg: no date in name (or camera date) - skipped
+  - creations/portrait1.jpg: no date in name (or camera date) - skipped
+  - creations/print1Bev_truloff.jpg: no date in name (or camera date) - skipped
+  - creations/Printmaking 2008 with Bev Truloff1.jpg: no date in name (or camera date) - skipped
+  - creations/Printmaking 2008 with Bev Truloff2.jpg: no date in name (or camera date) - skipped
+  - creations/Printmaking 2008 with Bev Truloff3.jpg: no date in name (or camera date) - skipped
+  - creations/Printmaking 2008 with Bev Truloff4.jpg: no date in name (or camera date) - skipped
+  - creations/Printmaking 2008 with Bev Truloff5.jpg: no date in name (or camera date) - skipped
+  - creations/Printmaking 2008 with Bev Truloff6.jpg: no date in name (or camera date) - skipped
+  - creations/Printmaking 2008 with Bev Truloff7.jpg: no date in name (or camera date) - skipped
+  - creations/Printmaking 2008 with Bev Truloff8.jpg: no date in name (or camera date) - skipped
+  - creations/self-portrait.jpg: no date in name (or camera date) - skipped
+  - creations/stained glass 1989.jpg: no date in name (or camera date) - skipped
+  - creations/walk1984.jpg: no date in name (or camera date) - skipped
